@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop"
   icon_pack = "fas"
-  name = "Statistical Softwares"
+  name = "Statistical Software"
   description = "R and Stata"
   
 [[feature]]
