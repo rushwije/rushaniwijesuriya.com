@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Biostatistics PhD student at the University of Melbourne. My research focus is on multiple imputation methods for incomplete complex data structures. 
 education:
   courses:
   - course: PhD in Biostatistics
