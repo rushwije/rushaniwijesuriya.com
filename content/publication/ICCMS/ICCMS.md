@@ -23,7 +23,7 @@ tags:
 - Randomization Tests
 - Hypothesis Testing
 - Staistical Inference 
-title: Comparing the Performance of Randomization Tests and Traditional Tests:A Simulation Study
+title: Comparing the performance of randomization tests and traditional tests:A simulation study
 url_code: ""
 url_dataset: ""
 url_pdf: slides/ICCMS.pdf
