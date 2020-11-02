@@ -17,7 +17,7 @@ subtitle = ""
   [[feature]]
   icon = "calculator"
   icon_pack = "fas"
-  name = "Maths and Stats"
+  name = "Mathematics and Statistics"
   description = "Theoretical and Practical"
   
 [[feature]]

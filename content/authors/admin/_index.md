@@ -15,6 +15,7 @@ interests:
 - Statistical Methods for Missing Data
 - Multiple Imputation
 - Longitudinal Data Analysis
+- Multilevel data
 organizations:
 - name: University of Melbourne
   url: "http://www.vicbiostat.org.au/people/ms-rushani-wijesuriya"
