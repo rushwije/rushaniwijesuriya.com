@@ -21,13 +21,15 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Casual Research Assistant"
-  company = " Melbourne Clinical and Translational Science (MCATS)"
+  company = "Melbourne Clinical and Translational Science (MCATS) Platform"
   company_url = "https://mspgh.unimelb.edu.au/centres-institutes/centre-for-health-policy/research-group/health-economics/engage/melbourne-clinical-and-translational-science-mcats"
   location = "University of Melbourne"
-  date_start = "2021-02-08"
+  date_start = "2021-02-01"
   date_end = ""
-  description = """I assist research teams with refining the research questions and developing statistical analysis plans,conduct the statistical analyses, upskill the research teams with advanced analysis techniques and  and assist with writing the research papers
-
+  description = """I assist research teams with refining the research questions and developing statistical analysis plans,conduct the statistical analyses, upskill the research teams with advanced analysis techniques and assist with writing the research papers
+  
+ """
+ 
 [[experience]]
   title = "Casual Academic Tutor"
   company = " Centre for Epidemiology and Biostatistics (CEB), Melbourne School of Population and Global Health"
@@ -40,9 +42,10 @@ date_format = "Jan 2006"
   * Inferential Methods for Biostatistics- Master of Biostatistics
   * Linear and Logistic Regression-Master of Public Health
   * Biostatistics- Master of Public Health
- 
-  """
-
+  
+  
+   """
+   
 [[experience]]
   title = "Temporary Assistant Lecturer"
   company = "Department of Statistics"
