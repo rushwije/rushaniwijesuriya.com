@@ -17,6 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Casual Research Assistant"
+  company = " Melbourne Clinical and Translational Science (MCATS)"
+  company_url = "https://mspgh.unimelb.edu.au/centres-institutes/centre-for-health-policy/research-group/health-economics/engage/melbourne-clinical-and-translational-science-mcats"
+  location = "University of Melbourne"
+  date_start = "2021-02-08"
+  date_end = ""
+  description = """I assist research teams with refining the research questions and developing statistical analysis plans,conduct the statistical analyses, upskill the research teams with advanced analysis techniques and  and assist with writing the research papers
+
 [[experience]]
   title = "Casual Academic Tutor"
   company = " Centre for Epidemiology and Biostatistics (CEB), Melbourne School of Population and Global Health"
