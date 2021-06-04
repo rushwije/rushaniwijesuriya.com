@@ -40,5 +40,5 @@ user_groups:
 - Visitors
 ---
 
-I am a third year Biostatistics PhD student at the University of Melbourne. Having completed a BSc. specializing in Statistics with Honours from the University of Colombo in 2017, I  temporarily served as an assistant lecturer at the University of Colombo, Department of Statistics before moving to Melbourne for my doctoral work. My PhD research is focused on evaluating and developing multiple imputation methods for complex three-level data structures.
+I am a final year Biostatistics PhD student at the University of Melbourne. Having completed a BSc. specializing in Statistics with Honours from the University of Colombo in 2017, I  temporarily served as an assistant lecturer at the University of Colombo, Department of Statistics before moving to Melbourne for my doctoral work. My PhD research is focused on evaluating and developing multiple imputation methods for complex three-level data structures.
 
