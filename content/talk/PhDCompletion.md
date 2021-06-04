@@ -17,7 +17,7 @@ links:
 #  url: https://twitter.com/georgecushen
 location: ""
 math: true
-publishDate: "2021-06-03T00:00:00Z"
+publishDate: "2020-08-26T00:00:00Z"
 tags: ["Multiple imputation", "Three-level data", "longitudinal","Missing data","PhD","Completion seminar"]
 title: : PhD Completion Seminar-Evaluation of Multiple Imputation Approaches for Handling Incomplete Three-level Data
 url_code: ""
