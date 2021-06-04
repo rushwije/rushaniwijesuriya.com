@@ -18,7 +18,7 @@ links:
 location: ""
 math: true
 publishDate: "2020-08-26T00:00:00Z"
-tags: ["Multiple imputation", "Three-level data", "longitudinal","Missing data","PhD","Completion seminar"]
+tags: ["Multiple imputation", "Three-level data", "longitudinal","Missing data"]
 title: : PhD Completion Seminar-Evaluation of Multiple Imputation Approaches for Handling Incomplete Three-level Data
 url_code: ""
 url_pdf: ""
