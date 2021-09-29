@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "https://medicine.unimelb.edu.au/school-structure/general-practice#research"
   location = "University of Melbourne"
   date_start = "2021-09-06"
-  date_end = " "
+  date_end = ""
   description = """I provide statistical support and advice for the reserach conducted at the department
   
  """
