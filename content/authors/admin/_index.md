@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Biostatistics
     institution: University of Melbourne, Australia
-    year: 2018-Present
+    year: 2018-2022
   - course: Bsc (Honours) in Statistics 
     institution: University of Colombo, Sri Lanka
     year: 2012-2016

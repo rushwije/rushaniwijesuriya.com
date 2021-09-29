@@ -20,13 +20,25 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Biostatistician"
+  company = "Department of General Practice"
+  company_url = "https://medicine.unimelb.edu.au/school-structure/general-practice#research"
+  location = "University of Melbourne"
+  date_start = "2021-09-06"
+  date_end = " "
+  description = """I provide statistical support and advice for the reserach conducted at the department
+  
+ """
+
+
+[[experience]]
   title = "Casual Research Assistant"
   company = "Melbourne Clinical and Translational Science (MCATS) Platform"
   company_url = "https://mspgh.unimelb.edu.au/centres-institutes/centre-for-health-policy/research-group/health-economics/engage/melbourne-clinical-and-translational-science-mcats"
   location = "University of Melbourne"
   date_start = "2021-02-01"
-  date_end = ""
-  description = """I assist research teams with refining the research questions and developing statistical analysis plans,conduct the statistical analyses, upskill the research teams with advanced analysis techniques and assist with writing the research papers
+  date_end = "2021-09-30"
+  description = """I provided collaborative statistical support on the design, analysis and reporting of medical research
   
  """
  
@@ -36,8 +48,8 @@ date_format = "Jan 2006"
   company_url = "https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/biostatistics"
   location = "University of Melbourne"
   date_start = "2018-08-01"
-  date_end = ""
-  description = """I deliver tutorials and conduct Stata/R statistical software practical sessions for the following statistical courses as a part of Master of Public Health and Master of Biostatistics.
+  date_end = "2020-10-31"
+  description = """In this role I delivered tutorials and Stata/R statistical software practical sessions for the following statistical courses as a part of Master of Public Health and Master of Biostatistics.
 
   * Inferential Methods for Biostatistics- Master of Biostatistics
   * Linear and Logistic Regression-Master of Public Health
