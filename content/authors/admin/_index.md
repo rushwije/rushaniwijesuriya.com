@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a Biostatistics PhD student at the University of Melbourne. My research focus is on multiple imputation methods for incomplete complex data structures. 
+bio: I recently completed a PhD in Biostatistics (currently under examination) at the University of Melbourne, focusing on developing and evaluating statistical methods for handling missing data in complex epidemiological studies with multiple levels of clustering. I am currently working across the University of Melbourne, providing statistical support to a range of projects related to improving young people’s health outcomes at the Department of General Practice, and the Murdoch Children’s Research Institute conducting methodological research. 
 education:
   courses:
   - course: PhD in Biostatistics
