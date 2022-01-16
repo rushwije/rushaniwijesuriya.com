@@ -1,19 +1,14 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2016-11-01T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Undergraduate honours thesis in statistics
 tags:
-- Deep Learning
-title: Internal Project
+- Statistics
+title: Undergraduate thesis
 url_code: ""
 url_pdf: "https://drive.google.com/file/d/1lAGhlO0g1lza87g2vxmKbYaRpDbo_1Mk/view?usp=sharing"
 url_slides: ""
