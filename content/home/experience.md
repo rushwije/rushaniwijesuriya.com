@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "University of Melbourne"
   date_start = "2021-09-06"
   date_end = ""
-  description = """I provide statistical support and advice for the reserach conducted at the department
+  description = """I provide statistical support and advice for the reserach conducted in the department
   
  """
 
