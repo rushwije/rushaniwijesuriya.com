@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: University of Melbourne
   url: "http://www.vicbiostat.org.au/people/ms-rushani-wijesuriya"
-role: PhD Student
+role: Biostatistician
 social:
 - icon: envelope
   icon_pack: fas
