@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Biostatistician (Research officer)"
+  company = ""
+  company_url = "https://www.mcri.edu.au/research/themes/population-health/clinical-epidemiology-biostatistics-cebu"
+  location = "Clinical Epidemiology & Biostatistics (CEBU)"
+  date_start = "2021-10-04"
+  date_end = " "
+  description = """I provided statistical support and advice for the reserach conducted in the department
+  
+ """
+
 
 [[experience]]
   title = "Biostatistician"
@@ -25,8 +36,8 @@ date_format = "Jan 2006"
   company_url = "https://medicine.unimelb.edu.au/school-structure/general-practice#research"
   location = "University of Melbourne"
   date_start = "2021-09-06"
-  date_end = ""
-  description = """I provide statistical support and advice for the reserach conducted in the department
+  date_end = "2021-04-18"
+  description = """I provided statistical support and advice for the reserach conducted in the department
   
  """
 
@@ -49,14 +60,7 @@ date_format = "Jan 2006"
   location = "University of Melbourne"
   date_start = "2018-08-01"
   date_end = "2020-10-31"
-  description = """In this role I delivered tutorials and Stata/R statistical software practical sessions for the following statistical courses as a part of Master of Public Health and Master of Biostatistics.
-
-  * Inferential Methods for Biostatistics- Master of Biostatistics
-  * Linear and Logistic Regression-Master of Public Health
-  * Biostatistics- Master of Public Health
-  
-  
-   """
+  description = """ """
    
 [[experience]]
   title = "Temporary Assistant Lecturer"
