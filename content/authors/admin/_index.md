@@ -40,5 +40,5 @@ user_groups:
 - Visitors
 ---
 
-I recently completed a PhD in Biostatistics at the University of Melbourne, focusing on developing and evaluating multiple imputation (MI) methods for handling missing data in complex epidemiological studies with multiple levels of clustering. I am currently working at the Murdoch Children’s Research Institute providing collaborative statistical support to public health research and conducting methodological research in MI and causal inference.
+I recently completed a PhD in Biostatistics at the University of Melbourne, focusing on developing and evaluating multiple imputation methods for handling missing data in complex epidemiological studies with multiple levels of clustering. I am currently working at the Murdoch Children’s Research Institute providing collaborative statistical support to public health research and conducting methodological research in multiple imputation and causal inference.
 
