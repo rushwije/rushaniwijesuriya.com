@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.mcri.edu.au/research/themes/population-health/clinical-epidemiology-biostatistics-cebu"
   location = "Clinical Epidemiology & Biostatistics (CEBU)"
   date_start = "2021-10-04"
-  date_end = " "
+  date_end = ""
   description = """I provided statistical support and advice for the reserach conducted in the department
   
  """
