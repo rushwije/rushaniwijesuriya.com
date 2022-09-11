@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Clinical Epidemiology & Biostatistics (CEBU)"
   date_start = "2021-10-04"
   date_end = ""
-  description = """I provided statistical support and advice for the reserach conducted in the department
+  description = """I provide statistical support and advice for the reserach conducted in the department, and conduct methodological research in multiple imputation for missing data and causal inference
   
  """
 
